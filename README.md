@@ -1,5 +1,5 @@
 # progintro/hw0-argypon
-byte0: Τρέχουμε επαναληπτικά τις εντολές ls κα cd μέχρι να φτάσουμε στο τελευταίο αρχείο με το όνομα treasure. Έπειτα κάνουμε "cat treasure" και βρίσκουμε το string που ψάχναμε /n
+byte0: Τρέχουμε επαναληπτικά τις εντολές ls κα cd μέχρι να φτάσουμε στο τελευταίο αρχείο με το όνομα treasure. Έπειτα κάνουμε "cat treasure" και βρίσκουμε το string που ψάχναμε 
 byte1: Τρέχουμε την εντολή "man supercalifragilisticexpialidocious" και βλέπουμε το ζητούμενο string
 byte2: Τρέχουμε την εντολή: grep "will find" shakespear.txt
 byte3: Τρέχουμε την εντολή "diff shakespeare.modified.txt shakespeare.txt" και βλέπουμε ότι η λέξη  "players: άλλαξε σε "programmers"
